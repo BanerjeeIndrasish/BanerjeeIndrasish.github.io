@@ -1,5 +1,5 @@
 # Developer
-
+![Logo] (/assets/img/MyIMG.JPG)
 ### technical Skills: Unity, C#, HTML, CSS, Javascript, .NET
 
 ### Education: 
