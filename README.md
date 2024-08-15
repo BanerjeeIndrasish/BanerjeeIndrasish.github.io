@@ -1,5 +1,5 @@
 # Developer
-![Logo] (/assets/img/MyIMG.JPG)
+
 ### technical Skills: Unity, C#, HTML, CSS, Javascript, .NET
 
 ### Education: 
@@ -10,3 +10,4 @@
 **Game Developer @ Biswa Games PVT. LTD (_May 2022 - Jul 2024_)**
 - Implementing Core Gameplay Mechanics
 - Implementing UI Designs And Functionalities
+- R&D For Prototype Projects
